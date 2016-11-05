@@ -1,0 +1,45 @@
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+#dogDivStyle
+{
+    background-color:black;
+    text-align:center;
+    border:5px yellow solid;
+}
+
+#dogImageStyle
+{
+    border:red 5px solid;
+    margin:100px;
+}
+
+#Pickle{
+    width:50px;
+    }
+
+#cats{
+    height:350px;
+    width:45 px;
+    border: 8 px blue;
+    
+}
+#polar {
+    width: 350em;
+    height: 300em;
+    border: red;
+}
+    
+    
+    #mining{
+          width:400px;
+        border:2px;
+    }
+        
+        #fall
+        {
+            
+        width: 200px;
+        }
+
